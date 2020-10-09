@@ -1,0 +1,2 @@
+# bagin
+print('begin')
